@@ -4,8 +4,8 @@
  - ♀️ Pronomes - ela/dela
 <div>
   <a href="https://github.com/juliaprestes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaprestes&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaprestes&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliaprestes&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaprestes&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
   <div style="display: inline_block"><br>
