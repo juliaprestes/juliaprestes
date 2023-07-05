@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Julia Prestes 👋
  
- - 📚 Sou estudante de Engenharia de Computação e Sistemas para Internet
+ - Formada em engenharia de computação
  - ♀️ Pronomes - ela/dela
 <div>
   <a href="https://github.com/juliaprestes">
